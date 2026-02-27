@@ -1,0 +1,7 @@
+{
+  "name": "Alupe University Sacco",
+  "description": "A professional, secure, and member-centric financial platform for Alupe University Sacco Society members.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
